@@ -1,0 +1,2 @@
+include ':ResideMenu', ':samego-job', ':icon-lib'
+project(':icon-lib').projectDir = new File('icon-library')

@@ -1,0 +1,92 @@
+[
+    {
+        "outputFile": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 202
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 202
+                    }
+                }
+            }
+        ]
+    }
+]

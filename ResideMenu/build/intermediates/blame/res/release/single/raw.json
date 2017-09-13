@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/alic/workspace/android/LifeHelper/ResideMenu/build/intermediates/res/merged/release/raw/iconic.ttf",
+        "source": "/home/alic/workspace/android/LifeHelper/icon-library/build/intermediates/bundles/default/res/raw/iconic.ttf"
+    },
+    {
+        "merged": "/home/alic/workspace/android/LifeHelper/ResideMenu/build/intermediates/res/merged/release/raw/entypo.otf",
+        "source": "/home/alic/workspace/android/LifeHelper/icon-library/build/intermediates/bundles/default/res/raw/entypo.otf"
+    },
+    {
+        "merged": "/home/alic/workspace/android/LifeHelper/ResideMenu/build/intermediates/res/merged/release/raw/font_awesome.ttf",
+        "source": "/home/alic/workspace/android/LifeHelper/icon-library/build/intermediates/bundles/default/res/raw/font_awesome.ttf"
+    },
+    {
+        "merged": "/home/alic/workspace/android/LifeHelper/ResideMenu/build/intermediates/res/merged/release/raw/entypo_social.otf",
+        "source": "/home/alic/workspace/android/LifeHelper/icon-library/build/intermediates/bundles/default/res/raw/entypo_social.otf"
+    }
+]

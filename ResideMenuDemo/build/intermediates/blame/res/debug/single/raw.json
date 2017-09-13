@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/raw/entypo.otf",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/icon-library/build/intermediates/bundles/default/res/raw/entypo.otf"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/raw/entypo_social.otf",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/icon-library/build/intermediates/bundles/default/res/raw/entypo_social.otf"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/raw/font_awesome.ttf",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/icon-library/build/intermediates/bundles/default/res/raw/font_awesome.ttf"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/raw/iconic.ttf",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/icon-library/build/intermediates/bundles/default/res/raw/iconic.ttf"
+    }
+]

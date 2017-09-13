@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/layout/settings.xml",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/layout/settings.xml"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/layout/calendar.xml",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/layout/calendar.xml"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/layout/residemenu_item.xml",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenu/build/intermediates/bundles/default/res/layout/residemenu_item.xml"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/layout/residemenu_custom_left_scrollview.xml",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenu/build/intermediates/bundles/default/res/layout/residemenu_custom_left_scrollview.xml"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/layout/residemenu_custom_right_scrollview.xml",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenu/build/intermediates/bundles/default/res/layout/residemenu_custom_right_scrollview.xml"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/layout/home.xml",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/layout/home.xml"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/layout/residemenu_custom.xml",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenu/build/intermediates/bundles/default/res/layout/residemenu_custom.xml"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/layout/profile.xml",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/layout/profile.xml"
+    }
+]

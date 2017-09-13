@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LifeHelper.iml" filepath="$PROJECT_DIR$/LifeHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResideMenu/ResideMenu.iml" filepath="$PROJECT_DIR$/ResideMenu/ResideMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icon-library/icon-lib.iml" filepath="$PROJECT_DIR$/icon-library/icon-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samego-job/samego-job.iml" filepath="$PROJECT_DIR$/samego-job/samego-job.iml" />
+    </modules>
+  </component>
+</project>

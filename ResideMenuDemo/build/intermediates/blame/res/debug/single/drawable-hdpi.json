@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/title_bar_menu_on.png",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/drawable-hdpi/title_bar_menu_on.png"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/title_bar_menu.png",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/drawable-hdpi/title_bar_menu.png"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/menu_background.png",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/drawable-hdpi/menu_background.png"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/button_on.9.png",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/drawable-hdpi/button_on.9.png"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_home.png",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/drawable-hdpi/icon_home.png"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_profile.png",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/drawable-hdpi/icon_profile.png"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_calendar.png",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/drawable-hdpi/icon_calendar.png"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_settings.png",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/drawable-hdpi/icon_settings.png"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/button.9.png",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/drawable-hdpi/button.9.png"
+    },
+    {
+        "merged": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/frame.png",
+        "source": "/home/alic/WorkSpace/AndroidStudioProjects/LifeHelper/ResideMenuDemo/res/drawable-hdpi/frame.png"
+    }
+]
